@@ -1,0 +1,8 @@
+<annotations>
+  <label>pothole</label>
+  <label>garbage</label>
+  <label>water_leak</label>
+  <label>broken_light</label>
+  <label>tree_fall</label>
+  <label>other</label>
+</annotations>

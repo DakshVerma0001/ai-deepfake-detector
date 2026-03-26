@@ -1,0 +1,5 @@
+image_path,labels,severity_pothole,severity_garbage,latitude,longitude,notes
+data/images/pothole/Image_1.jpg,"pothole","medium","",28.7041,77.1025,"pothole near manhole"
+data/images/garbage/Image_5.jpg,"garbage","","medium",28.5355,77.3910,"garbage pile on sidewalk"
+# If an image has multiple labels, list labels semicolon-separated:
+data/images/mixed/Image_100.jpg,"pothole;garbage","medium","low",28.7,77.1,"both pothole and trash visible"

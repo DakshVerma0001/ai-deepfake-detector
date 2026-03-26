@@ -1,0 +1,6 @@
+pothole
+garbage
+water_leak
+broken_light
+tree_fall
+other
